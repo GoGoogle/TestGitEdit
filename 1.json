@@ -1,0 +1,3 @@
+{"ok":true,"result":[{"update_id":1100790,
+"message":{"message_id":204,"from":{"id":00000000,"is_bot":false,"first_name":"\u7985","username":"Test","language_code":"zh-hans"},"chat":{"id":00000000,"first_name":"\u7985","username":"Test","type":"private"},"date":1574784469,"text":"/command LA1 systemctl stop bt2 && uptime","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":1100791,
+"message":{"message_id":205,"from":{"id":00000000,"is_bot":false,"first_name":"\u7985","username":"Test","language_code":"zh-hans"},"chat":{"id":00000000,"first_name":"\u7985","username":"Test","type":"private"},"date":1574784475,"text":"/getupdate","entities":[{"offset":0,"length":10,"type":"bot_command"}]}}]}
